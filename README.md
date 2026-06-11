@@ -69,7 +69,7 @@ Database management system project demonstrating schema design, SQL queries, and
 I'm currently open to full-time roles, remote contracts, and freelance work.
 
 - 📧 **Email:** [meghanamogili31@gmail.com](mailto:meghanamogili31@gmail.com)
-- 💼 **LinkedIn:** *(add your LinkedIn URL here)*
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/meghana-mogili-91b47b380/)*
 - 🎓 **College:** Indian Institute of Information Technology Nagpur
 
 ---
